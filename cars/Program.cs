@@ -1,4 +1,4 @@
-namespace cars
+namespace Cars
 {
     public class Program
     {
